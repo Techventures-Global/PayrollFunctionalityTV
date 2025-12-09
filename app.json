@@ -1,0 +1,37 @@
+{
+  "id": "afe9498d-9b54-4d74-a1f9-a8342d930e58",
+  "name": "PayrollFunctionalityTV",
+  "publisher": "Tech ventures Global",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+   {
+      "id": "6fe7ab06-d1ea-4363-bccd-0733ff15e98e",
+      "name": "NIC Payroll",
+      "publisher": "Tech ventures Global",
+      "version": "1.0.0.13"
+    }
+  ],
+  "screenshots": [],
+
+  "platform": "1.0.0.0",
+  "application": "26.2.0.0",
+  "idRanges": [
+    {
+      "from": 70100,
+      "to": 79999
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "14.0"
+}
